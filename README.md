@@ -46,7 +46,7 @@ while a miter saw & table saw will make the most accurate cuts, I was able to bu
 - low saw horses (DIY)
 - clamps (4)
 - level
-- screw driver (+ impact driver)
+- power drill (+ impact driver)
 - countersink or countersink bit
 - sand paper block
 - patience
