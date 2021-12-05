@@ -22,7 +22,7 @@ note that the top two boards are split into three pieces, then re-attached end-t
 
 materials can be sourced from most lowes stores in the united states
 
-- solid pine. (
+- solid pine.
 
   | W x H (in) | length (in) |	qty |
   | ---------- | ---------------- | --- |
