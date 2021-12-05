@@ -22,13 +22,16 @@ note that the top two boards are split into three pieces, then re-attached end-t
 
 materials can be sourced from most lowes stores in the united states
 
-- solid pine
+- solid pine. (
 
   | W x H (in) | length (in) |	qty |
   | ---------- | ---------------- | --- |
   | 1-1/2 x 1-1/2 |	96 |	8 |
   | 1-1/2 x 1-1/2	| 72 |	2 
   | 5-1/2 x 3/4 |	72 |	8 |
+  
+  (actual measurements, not nominal)
+  
 - wood screws
   - #10 x 2-1/2"
   - #10 x 2"
