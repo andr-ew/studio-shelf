@@ -14,3 +14,5 @@ materials can be sourced from most lowes stores in the united states
   | 1-1/2 x 1-1/2 |	96 |	8 |
   | 1-1/2 x 1-1/2	| 72 |	2 
   | 5-1/2 x 3/4 |	72 |	8 |
+
+- sand paper
